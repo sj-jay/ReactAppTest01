@@ -8,7 +8,6 @@ function Column() {
     return (
         <div className="column">
             {title}
-
         </div>
     );
 }
