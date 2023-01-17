@@ -4,10 +4,17 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import EventPrint from "./eventHandling/event.js";
+import ConditionalRendering from "./conditionalRendering/conditionalRendering.js";
+
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <EventPrint />
+    <ConditionalRendering />
   </React.StrictMode>
 );
 

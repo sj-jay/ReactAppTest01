@@ -32,7 +32,14 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* ------------- */
+.UserInfo-name {
+  font-size: 18px;
+  color: rgb(145, 17, 17);
 }
