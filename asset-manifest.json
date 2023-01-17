@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactAppTest01/static/css/main.6c12feaa.css",
-    "main.js": "/ReactAppTest01/static/js/main.df9e0d6b.js",
-    "static/js/787.3686e622.chunk.js": "/ReactAppTest01/static/js/787.3686e622.chunk.js",
-    "index.html": "/ReactAppTest01/index.html",
-    "main.6c12feaa.css.map": "/ReactAppTest01/static/css/main.6c12feaa.css.map",
-    "main.df9e0d6b.js.map": "/ReactAppTest01/static/js/main.df9e0d6b.js.map",
-    "787.3686e622.chunk.js.map": "/ReactAppTest01/static/js/787.3686e622.chunk.js.map"
+    "main.css": "/webR&D/WEBAPP/React/build-test-01/static/css/main.6c12feaa.css",
+    "main.js": "/webR&D/WEBAPP/React/build-test-01/static/js/main.c9e77756.js",
+    "static/js/787.3686e622.chunk.js": "/webR&D/WEBAPP/React/build-test-01/static/js/787.3686e622.chunk.js",
+    "index.html": "/webR&D/WEBAPP/React/build-test-01/index.html",
+    "main.6c12feaa.css.map": "/webR&D/WEBAPP/React/build-test-01/static/css/main.6c12feaa.css.map",
+    "main.c9e77756.js.map": "/webR&D/WEBAPP/React/build-test-01/static/js/main.c9e77756.js.map",
+    "787.3686e622.chunk.js.map": "/webR&D/WEBAPP/React/build-test-01/static/js/787.3686e622.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c12feaa.css",
-    "static/js/main.df9e0d6b.js"
+    "static/js/main.c9e77756.js"
   ]
 }
